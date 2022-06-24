@@ -1,0 +1,2 @@
+#查看当前使用的数据库
+SELECT DATABASE() FROM DUAL;
